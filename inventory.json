@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-09-26T05:28:18",
+  "generated_at": "2026-10-08T14:35:35",
   "vehicle_count": 224,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q3 ",
@@ -34,7 +36,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Audi Q5 ",
@@ -49,7 +53,9 @@
       "year": 2019,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -65,7 +71,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -80,7 +88,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Crosstrek ",
@@ -95,7 +105,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Camry ",
@@ -110,7 +122,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Edge ",
@@ -125,7 +139,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-9 ",
@@ -140,7 +156,9 @@
       "year": 2020,
       "make": "Mazda",
       "model": "CX-9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 Classic ",
@@ -156,7 +174,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota C-HR ",
@@ -171,7 +191,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "C-HR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 KTM Adventurer 890 ",
@@ -186,7 +208,9 @@
       "year": 2021,
       "make": "KTM",
       "model": "Adventurer 890",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -201,7 +225,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -216,12 +242,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVDG8ME523245",
       "stock": 14336180,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/1705273095ae.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -230,8 +259,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -246,7 +277,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -261,12 +294,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVDG8ME523245",
       "stock": 14336180,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1705273095ae.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2021-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -275,8 +311,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -291,7 +329,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota C-HR ",
@@ -306,7 +346,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "C-HR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -321,7 +363,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Durango ",
@@ -336,7 +380,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Durango ",
@@ -351,7 +397,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -366,7 +414,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -381,12 +431,15 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Sportin Courtenay",
       "vin": "1C6SRFVT8NN166336",
       "stock": "NUMBER",
+      "trim": "Sportin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/d729a252b0f3.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500-id14171381.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500-id14171381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -396,13 +449,16 @@
       "odometer_km": 57832,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Sportin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Rebelin Courtenay",
       "vin": "1C6SRFLT6NN348393",
       "stock": "NUMBER",
+      "trim": "Rebelin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5d1902f4ad96.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500-id14171386.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500-id14171386.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -412,8 +468,10 @@
       "odometer_km": 54500,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Rebelin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -428,13 +486,16 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic SLTin Courtenay",
       "vin": "1C6RR7GT3NS187663",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SLTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/9cc21134d35c.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500_Classic-id14171382.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2022-RAM-1500_Classic-id14171382.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,8 +505,10 @@
       "odometer_km": 46677,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Classic SLTin Courtenay",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -461,7 +524,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -476,7 +541,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -492,12 +559,15 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Grand Caravan SXTin Courtenay",
       "vin": "2C4RC1ZG1PR579584",
       "stock": "NUMBER",
+      "trim": "SXTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/567d71c6c6bc.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Chrysler-Grand_Caravan-id14171384.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Chrysler-Grand_Caravan-id14171384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -507,8 +577,10 @@
       "odometer_km": 42000,
       "year": 2023,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Courtenay",
-      "condition": "used"
+      "model": "Grand Caravan",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Grand Caravan ",
@@ -524,7 +596,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Grand Caravan ",
@@ -540,12 +614,15 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLTin Courtenay",
       "vin": "1FTFW1E86PKE39912",
       "stock": "NUMBER",
+      "trim": "XLTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/79f58712ce8e.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Ford-F_150-id14089009.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Ford-F_150-id14089009.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -555,13 +632,16 @@
       "odometer_km": 69301,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLTin Courtenay",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Platinumin Courtenay",
       "vin": "1FTFW1E87PFC38741",
       "stock": "NUMBER",
+      "trim": "Platinumin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/cd5fa70804a4.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Ford-F_150-id14171387.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Ford-F_150-id14171387.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -571,8 +651,10 @@
       "odometer_km": 77861,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 Platinumin Courtenay",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -587,7 +669,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -602,12 +686,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe Overlandin Courtenay",
       "vin": "1C4RJYD67P8784139",
       "stock": "NUMBER",
+      "trim": "4xe Overlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/e748beab0754.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe-id13928373.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe-id13928373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -617,13 +704,16 @@
       "odometer_km": 16484,
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe Overlandin Courtenay",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYD67P8784139",
       "stock": 13928373,
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5f4d8867ee33.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -632,13 +722,16 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYD67P8784139",
       "stock": 13928373,
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/5f4d8867ee33.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-Jeep-Grand_Cherokee_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,13 +740,16 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic Expressin Courtenay",
       "vin": "3C6RR7KT1PG670330",
       "stock": "NUMBER",
+      "trim": "Expressin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/75b5db40d235.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2023-RAM-1500_Classic-id14304180.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2023-RAM-1500_Classic-id14304180.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -663,8 +759,10 @@
       "odometer_km": 61207,
       "year": 2023,
       "make": "RAM",
-      "model": "1500 Classic Expressin Courtenay",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -679,7 +777,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -694,13 +794,16 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona Scat Packin Courtenay",
       "vin": "2C3CDBCK6RR205193",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Daytona Scat Packin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/c38932ea1a73.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona-id13502569.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona-id13502569.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -710,14 +813,17 @@
       "odometer_km": 1752,
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona Scat Packin Courtenay",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK6RR205193",
       "stock": 13502569,
       "color": "Black",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/1ab492c2042c.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -726,13 +832,16 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango Citadelin Courtenay",
       "vin": "1C4SDJET4RC150081",
       "stock": "NUMBER",
+      "trim": "Citadelin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/75e84db8d70c.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Durango-id14109305.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Durango-id14109305.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -742,8 +851,10 @@
       "odometer_km": 20547,
       "year": 2024,
       "make": "Dodge",
-      "model": "Durango Citadelin Courtenay",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -758,13 +869,16 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/t Plusin Courtenay",
       "vin": "ZACPDFDW1R3A24858",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "R/t Plusin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/7a4746d20aa3.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet-id13576172.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet-id13576172.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -774,8 +888,10 @@
       "odometer_km": 8771,
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/t Plusin Courtenay",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -791,13 +907,16 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/T PHEVin Courtenay",
       "vin": "ZACPDFCW9R3A16833",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "R/T PHEVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5a596073b5cd.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV-id13547059.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV-id13547059.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -807,14 +926,17 @@
       "odometer_km": 49611,
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/T PHEVin Courtenay",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/T PHEV Plusin Courtenay",
       "vin": "ZACPDFDW2R3A24612",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "R/T PHEV Plusin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/8805672ae1ce.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV-id13576170.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV-id13576170.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -824,14 +946,17 @@
       "odometer_km": 49002,
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/T PHEV Plusin Courtenay",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/T PHEV ",
       "vin": "ZACPDFCW9R3A16833",
       "stock": 13547059,
       "color": "Red",
+      "trim": "R/T",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/003a3d76dda6.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -840,14 +965,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/T PHEV",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK6RR205193",
       "stock": 13502569,
       "color": "Black",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1ab492c2042c.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -856,8 +984,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -872,7 +1002,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet ",
@@ -888,13 +1020,16 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Hornet R/T PHEV ",
       "vin": "ZACPDFCW9R3A16833",
       "stock": 13547059,
       "color": "Red",
+      "trim": "R/T",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/003a3d76dda6.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Dodge-Hornet_R%2FT_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,13 +1038,16 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet R/T PHEV",
-      "condition": "new"
+      "model": "Hornet",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape Platinumin Courtenay",
       "vin": "1FMCU9JA0RUA50802",
       "stock": "NUMBER",
+      "trim": "Platinumin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/e6f032a1ed3f.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Ford-Escape-id14215411.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Ford-Escape-id14215411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,8 +1057,10 @@
       "odometer_km": 61628,
       "year": 2024,
       "make": "Ford",
-      "model": "Escape Platinumin Courtenay",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -935,7 +1075,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -950,12 +1092,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Canyon At4xin Courtenay",
       "vin": "1GTP6EEK5R1151329",
       "stock": "NUMBER",
+      "trim": "At4xin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/d7e781d4f1ca.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-GMC-Canyon-id14152434.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-GMC-Canyon-id14152434.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -965,8 +1110,10 @@
       "odometer_km": 70200,
       "year": 2024,
       "make": "GMC",
-      "model": "Canyon At4xin Courtenay",
-      "condition": "used"
+      "model": "Canyon",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Canyon ",
@@ -981,7 +1128,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Canyon ",
@@ -996,13 +1145,16 @@
       "year": 2024,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe Rubiconin Courtenay",
       "vin": "1C4RJXR68RW189253",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "4xe Rubiconin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4a5ad132f8b0.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2024-Jeep-Wrangler_4xe-id13928277.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2024-Jeep-Wrangler_4xe-id13928277.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1012,14 +1164,17 @@
       "odometer_km": 32186,
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe Rubiconin Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe ",
       "vin": "1C4RJXR68RW189253",
       "stock": 13928277,
       "color": "Grey",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/37b0c1d0dc46.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2024-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2024-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1028,14 +1183,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Big Hornin Courtenay",
       "vin": "1C6SRFMT1RN162930",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/08d7fcc8aead.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id13576162.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id13576162.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1045,13 +1203,16 @@
       "odometer_km": 26983,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Big Hornin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Rebelin Courtenay",
       "vin": "1C6SRFLT7RN214739",
       "stock": "NUMBER",
+      "trim": "Rebelin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5c8a4df72459.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id14204902.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id14204902.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1061,13 +1222,16 @@
       "odometer_km": 65944,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Rebelin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Rebelin Courtenay",
       "vin": "1C6SRFLT5RN208230",
       "stock": "NUMBER",
+      "trim": "Rebelin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/8bf8d97b02bb.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id14204904.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500-id14204904.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1077,8 +1241,10 @@
       "odometer_km": 20113,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Rebelin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -1094,13 +1260,16 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic Warlockin Courtenay",
       "vin": "1C6RR7LT6RS192271",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Warlockin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/1118d4deb13e.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500_Classic-id14404115.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-1500_Classic-id14404115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1110,8 +1279,10 @@
       "odometer_km": 21069,
       "year": 2024,
       "make": "RAM",
-      "model": "1500 Classic Warlockin Courtenay",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -1127,13 +1298,16 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 Rebelin Courtenay",
       "vin": "3C6UR5EL2RG143667",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Rebelin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/8ce6b27961a9.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-2500-id14247856.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-2500-id14247856.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1143,8 +1317,10 @@
       "odometer_km": 93012,
       "year": 2024,
       "make": "RAM",
-      "model": "2500 Rebelin Courtenay",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 ",
@@ -1160,12 +1336,15 @@
       "year": 2024,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Limitedin Courtenay",
       "vin": "3C63R3PL3RG314486",
       "stock": "NUMBER",
+      "trim": "Limitedin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/33576a0fb40a.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-3500-id14297445.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-3500-id14297445.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1354,17 @@
       "odometer_km": 111856,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Limitedin Courtenay",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Big Hornin Courtenay",
       "vin": "3C63R3DJ2RG290278",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Big Hornin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/990f171b9410.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-RAM-3500-id14319718.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-RAM-3500-id14319718.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,8 +1374,10 @@
       "odometer_km": 39606,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Big Hornin Courtenay",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1209,7 +1393,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 ",
@@ -1225,7 +1411,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 1500 Classic ",
@@ -1241,7 +1429,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 2500 ",
@@ -1257,7 +1447,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -1273,12 +1465,15 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla Corein Courtenay",
       "vin": "JTNABAAE1RA014488",
       "stock": "NUMBER",
+      "trim": "Corein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/c12e53e6d745.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2024-Toyota-GR_Corolla-id14152436.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2024-Toyota-GR_Corolla-id14152436.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1288,8 +1483,10 @@
       "odometer_km": 4600,
       "year": 2024,
       "make": "Toyota",
-      "model": "GR Corolla Corein Courtenay",
-      "condition": "used"
+      "model": "GR Corolla",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla ",
@@ -1304,7 +1501,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota GR Corolla ",
@@ -1319,12 +1518,15 @@
       "year": 2024,
       "make": "Toyota",
       "model": "GR Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q8 Progressivin Courtenay",
       "vin": "WA1DVBF11SD036316",
       "stock": "NUMBER",
+      "trim": "Progressivin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/615b0c3e3d8a.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Audi-Q8-id14419263.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Audi-Q8-id14419263.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1334,8 +1536,10 @@
       "odometer_km": 31087,
       "year": 2025,
       "make": "Audi",
-      "model": "Q8 Progressivin Courtenay",
-      "condition": "used"
+      "model": "Q8",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q8 ",
@@ -1350,7 +1554,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q8",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q8 ",
@@ -1365,12 +1571,15 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q8",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LTin Courtenay",
       "vin": "2GCUKDED3S1122423",
       "stock": "NUMBER",
+      "trim": "LTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/06acbf4f6623.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Chevrolet-Silverado_1500-id14230734.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Chevrolet-Silverado_1500-id14230734.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1380,8 +1589,10 @@
       "odometer_km": 38225,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 1500 LTin Courtenay",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -1396,12 +1607,15 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD LTZin Courtenay",
       "vin": "2GC4KUEY9S1162184",
       "stock": "NUMBER",
+      "trim": "LTZin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/b98742d97246.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Chevrolet-Silverado_3500HD-id14058846.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Chevrolet-Silverado_3500HD-id14058846.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1411,8 +1625,10 @@
       "odometer_km": 27450,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 3500HD LTZin Courtenay",
-      "condition": "used"
+      "model": "Silverado 3500HD",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -1427,7 +1643,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -1442,7 +1660,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -1457,12 +1677,15 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango R/Tin Courtenay",
       "vin": "1C4SDJCTXSC513198",
       "stock": "NUMBER",
+      "trim": "R/Tin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5517149e3249.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Dodge-Durango-id14109303.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Dodge-Durango-id14109303.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1472,8 +1695,10 @@
       "odometer_km": 58062,
       "year": 2025,
       "make": "Dodge",
-      "model": "Durango R/Tin Courtenay",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1488,7 +1713,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1503,12 +1730,15 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 EXin Courtenay",
       "vin": "3KPFU4DE1SE149202",
       "stock": "NUMBER",
+      "trim": "EXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/9cdd78ead44f.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Kia-K4-id14171380.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Kia-K4-id14171380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1518,8 +1748,10 @@
       "odometer_km": 25131,
       "year": 2025,
       "make": "Kia",
-      "model": "K4 EXin Courtenay",
-      "condition": "used"
+      "model": "K4",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -1534,7 +1766,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -1549,12 +1783,15 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 Limited Longhornin Courtenay",
       "vin": "1C6SRFHP8SN653272",
       "stock": "NUMBER",
+      "trim": "Limited Longhornin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/ddfedb1e7061.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-RAM-1500-id14291989.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-RAM-1500-id14291989.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1564,8 +1801,10 @@
       "odometer_km": 33720,
       "year": 2025,
       "make": "RAM",
-      "model": "1500 Limited Longhornin Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1580,13 +1819,16 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van Tradesmanin Courtenay",
       "vin": "3C6LRVBG7SE551828",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van Tradesmanin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/85ad47761346.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van-id13928245.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van-id13928245.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1595,14 +1837,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesmanin Courtenay",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van Tradesmanin Courtenay",
       "vin": "3C6LRVAG3SE539354",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van Tradesmanin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/865d2d0cba5c.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van-id13928381.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van-id13928381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1611,14 +1856,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesmanin Courtenay",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVAG3SE539354",
       "stock": 13928381,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/d534efb56c8d.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2025-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1627,8 +1875,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1643,12 +1893,15 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma Hybridin Courtenay",
       "vin": "3TYLC5LNXST032418",
       "stock": "NUMBER",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/a0ef81ebd321.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Toyota-Tacoma-id14230733.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Toyota-Tacoma-id14230733.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1658,8 +1911,10 @@
       "odometer_km": 12224,
       "year": 2025,
       "make": "Toyota",
-      "model": "Tacoma Hybridin Courtenay",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma ",
@@ -1674,12 +1929,15 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra 4x4 Crewmax SRin Courtenay",
       "vin": "5TFKB5DB4SX316071",
       "stock": "NUMBER",
+      "trim": "Crewmax SRin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5515acf449f1.html",
       "source_url": "https://www.comoxvalleydodge.com/used/2025-Toyota-Tundra-id14021400.html",
       "dealer_url": "https://www.comoxvalleydodge.com/used/2025-Toyota-Tundra-id14021400.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1689,8 +1947,10 @@
       "odometer_km": 5867,
       "year": 2025,
       "make": "Toyota",
-      "model": "Tundra 4x4 Crewmax SRin Courtenay",
-      "condition": "used"
+      "model": "Tundra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -1705,7 +1965,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tacoma ",
@@ -1720,7 +1982,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -1735,7 +1999,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Courtenay",
@@ -1750,7 +2016,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Courtenay",
@@ -1765,12 +2033,15 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/159a55365788.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1779,8 +2050,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Courtenay",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Courtenay",
@@ -1795,7 +2068,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Courtenay",
@@ -1810,12 +2085,15 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/159a55365788.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1824,8 +2102,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Courtenay",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1841,7 +2121,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1857,7 +2139,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1873,7 +2157,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1889,13 +2175,16 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger R/Tin Courtenay",
       "vin": "2C3CDANP4TR258615",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "R/Tin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/aa51ea28f31c.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Dodge-Charger-id13726881.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Dodge-Charger-id13726881.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1904,8 +2193,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Charger R/Tin Courtenay",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Charger ",
@@ -1921,13 +2212,16 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango GTin Courtenay",
       "vin": "1C4RDJDG7TC276901",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e7266561e354.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Dodge-Durango-id13928312.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Dodge-Durango-id13928312.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1936,8 +2230,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango GTin Courtenay",
-      "condition": "new"
+      "model": "Durango",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1953,7 +2249,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1969,7 +2267,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1985,7 +2285,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2001,7 +2303,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2017,7 +2321,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -2032,7 +2338,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -2047,12 +2355,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/7e6b4cbf4425.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2061,8 +2372,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Courtenay",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Courtenay",
@@ -2077,7 +2390,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2093,7 +2408,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2109,7 +2426,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2125,7 +2444,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2141,7 +2462,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2157,7 +2480,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -2172,7 +2497,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -2187,12 +2514,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/7e6b4cbf4425.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2201,8 +2531,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Courtenay",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Courtenay",
@@ -2217,7 +2549,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2233,12 +2567,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Courtenay",
       "vin": "3C4PJMB24TT273676",
       "stock": "NUMBER",
+      "trim": "Laredoin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/669ebbd58bd8.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928194.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928194.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2247,13 +2584,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC23TT276096",
       "stock": "NUMBER",
+      "trim": "Overlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/6e7702d7ed50.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928266.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928266.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2262,13 +2602,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC21TT276095",
       "stock": "NUMBER",
+      "trim": "Overlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/bd3e53b28fe5.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928292.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928292.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2277,13 +2620,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC2XTT276094",
       "stock": "NUMBER",
+      "trim": "Overlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/8d326e9f2843.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928304.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928304.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2292,13 +2638,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Basein Courtenay",
       "vin": "3C4PJMA24TT191397",
       "stock": "NUMBER",
+      "trim": "Basein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/660944c622e9.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928316.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928316.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2307,13 +2656,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Basein Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC27TT272746",
       "stock": "NUMBER",
+      "trim": "Overlandin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/2333f4623a50.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928337.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id13928337.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2322,14 +2674,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Overlandin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Courtenay",
       "vin": "3C4PJMB25TT286792",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredoin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/691051248b82.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id14340033.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Cherokee-id14340033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2338,8 +2693,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Courtenay",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -2355,13 +2712,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sportin Courtenay",
       "vin": "3C4NJDAN4TT153203",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sportin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/8c98f5fe535d.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id12891453.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id12891453.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2370,14 +2730,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sportin Courtenay",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Courtenay",
       "vin": "3C4NJDBN0TT154783",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Northin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f4b5ab6e9228.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id12980391.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id12980391.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2386,14 +2749,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Courtenay",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Courtenay",
       "vin": "3C4NJDBN5TT154777",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Northin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/c142cbca2ac9.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id13019410.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Compass-id13019410.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2402,8 +2768,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Courtenay",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2419,13 +2787,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Sport Sin Courtenay",
       "vin": "1C6PJTAGXTL184320",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/674c7153d3db.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Gladiator-id13928227.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Gladiator-id13928227.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2434,8 +2805,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Sport Sin Courtenay",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2451,13 +2824,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitudein Courtenay",
       "vin": "1C4RJHAR3TC236211",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ff4ffcf8d774.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13726882.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13726882.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2466,14 +2842,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitudein Courtenay",
       "vin": "1C4RJHAR7TC236213",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/3dbd8ae9ef45.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13734967.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13734967.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2482,14 +2861,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitudein Courtenay",
       "vin": "1C4RJHAR5TC236212",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/9033caf2f559.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13734970.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13734970.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2498,14 +2880,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Laredo Xin Courtenay",
       "vin": "1C4RJHAG9TC317020",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredo Xin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/44304cb5b3ae.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13928170.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13928170.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2514,14 +2899,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredo Xin Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Laredoin Courtenay",
       "vin": "1C4RJHAG2TC274026",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Laredoin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f4317d9b3050.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13928365.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13928365.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2530,8 +2918,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredoin Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2547,12 +2937,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Altitudein Courtenay",
       "vin": "1C4RJKAR3T8608694",
       "stock": "NUMBER",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4c4c7d241a52.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee_L-id13803707.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Grand_Cherokee_L-id13803707.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2561,8 +2954,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Altitudein Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -2577,7 +2972,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer ",
@@ -2592,13 +2989,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Saharain Courtenay",
       "vin": "1C4PJXEG9TW175925",
       "stock": "NUMBER",
       "color": "41 (PJ5)",
+      "trim": "Saharain Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/cb417bc7d1c0.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13113400.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13113400.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2607,14 +3007,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Saharain Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sport Sin Courtenay",
       "vin": "1C4PJXDN2TW315667",
       "stock": "NUMBER",
       "color": "Reign (PHT)",
+      "trim": "Sport Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/41ed8caf45a4.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13928323.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13928323.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2623,14 +3026,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sport Sin Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sport Sin Courtenay",
       "vin": "1C4PJXDN9TW315696",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Sport Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/398801529528.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13928351.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13928351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2639,14 +3045,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sport Sin Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Sportin Courtenay",
       "vin": "1C4PJXAN0TW336425",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sportin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/7cf827a57219.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13978083.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-Jeep-Wrangler-id13978083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2655,8 +3064,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Sportin Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2672,7 +3083,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2688,7 +3101,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2704,7 +3119,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2720,7 +3137,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2736,13 +3155,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Courtenay",
       "vin": "3C6SRFGPXT4152607",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Warlockin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4774e4021136.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13331217.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13331217.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2751,14 +3173,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Courtenay",
       "vin": "1C6SRFGP8TN425808",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Warlockin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/3d8fbbd6e7f1.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13872505.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13872505.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2767,14 +3192,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Courtenay",
       "vin": "1C6SRFGPXTN425809",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Warlockin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/3cabaecc6800.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13872506.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13872506.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2783,14 +3211,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Tradesmanin Courtenay",
       "vin": "1C6SRFGT6TN423911",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Tradesmanin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/c02fff01c1cc.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928233.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928233.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2799,14 +3230,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Tradesmanin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Warlockin Courtenay",
       "vin": "1C6SRFGT8TN423912",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Warlockin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/424f37f52a2f.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928329.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928329.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2815,14 +3249,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Warlockin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Tradesmanin Courtenay",
       "vin": "1C6SRFGT2TN421329",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Tradesmanin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e18ae5fe0450.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928352.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id13928352.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2831,13 +3268,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Tradesmanin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Courtenay",
       "vin": "1C6SRFGT9TN421327",
       "stock": "NUMBER",
+      "trim": "Expressin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ae6621604e63.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id14370615.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-1500-id14370615.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2846,8 +3286,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Courtenay",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2863,7 +3305,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2879,13 +3323,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van Tradesmanin Courtenay",
       "vin": "3C6MRVWGXTE185959",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van Tradesmanin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ecbee7c0391e.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-ProMaster_Cargo_Van-id13928375.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-ProMaster_Cargo_Van-id13928375.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2894,14 +3341,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesmanin Courtenay",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 RAM ProMaster Cargo Van ",
       "vin": "3C6MRVWGXTE185959",
       "stock": 13928375,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/6bb69374c65a.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2026-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2910,8 +3360,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Courtenay",
@@ -2926,7 +3378,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Courtenay",
@@ -2941,7 +3395,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Courtenay",
@@ -2956,7 +3412,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2971,7 +3429,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Courtenay",
@@ -2986,7 +3446,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3001,13 +3463,16 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Courtenay",
       "vin": "2C4RC3BG9VR605870",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Selectin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/bc47baf19e5f.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2027-Chrysler-Pacifica-id14089011.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2027-Chrysler-Pacifica-id14089011.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3016,8 +3481,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Courtenay",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -3032,7 +3499,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Courtenay",
@@ -3047,7 +3516,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Courtenay",
@@ -3062,7 +3533,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Courtenay",
@@ -3077,7 +3550,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Courtenay",
@@ -3092,7 +3567,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Courtenay",
@@ -3107,7 +3584,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Courtenay",
@@ -3122,7 +3601,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Courtenay",
@@ -3137,7 +3618,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Courtenay",
@@ -3152,12 +3635,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/f80ccd9e5ab0.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3166,8 +3652,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Courtenay",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Courtenay",
@@ -3182,12 +3670,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/e6fa484c61a1.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3196,8 +3687,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Courtenay",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -3213,7 +3706,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Courtenay",
@@ -3228,7 +3723,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Courtenay",
@@ -3243,7 +3740,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Courtenay",
@@ -3258,7 +3757,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Courtenay",
@@ -3273,12 +3774,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f80ccd9e5ab0.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3287,8 +3791,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Courtenay",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Courtenay",
@@ -3303,12 +3809,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e6fa484c61a1.html",
       "source_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3317,8 +3826,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Courtenay",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -3334,13 +3845,16 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler Sport Sin Courtenay",
       "vin": "1C4PJXDN3VW561565",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/db1726081f2f.html",
       "source_url": "https://www.comoxvalleydodge.com/new/inventory/2027-Jeep-Wrangler-id14123730.html",
       "dealer_url": "https://www.comoxvalleydodge.com/new/inventory/2027-Jeep-Wrangler-id14123730.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3349,8 +3863,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Wrangler Sport Sin Courtenay",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wrangler ",
@@ -3366,7 +3882,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3382,7 +3900,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3398,7 +3918,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3414,7 +3936,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3430,7 +3954,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3446,7 +3972,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3462,7 +3990,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Courtenay",
@@ -3477,7 +4007,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Courtenay",
@@ -3492,7 +4024,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     }
   ]
 }
