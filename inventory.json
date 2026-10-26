@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-10-25T22:52:30",
+  "generated_at": "2026-10-25T22:56:08",
   "vehicle_count": 187,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1877,13 +1877,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Grand Cherokee Lin Courtenay",
+      "name": "2027 Jeep Grand Cherokee L ",
+      "vin": "1C4RJKAR2V8173072",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f80ccd9e5ab0.html",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee",
+      "model": "Grand Cherokee L",
       "condition": "new",
-      "price": 65790.0,
+      "price": 74075.0,
       "price_currency": "CAD"
     },
     {
@@ -1914,7 +1915,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 69583.0,
+      "price": 66270.0,
       "price_currency": "CAD"
     },
     {
@@ -1952,13 +1953,13 @@
     },
     {
       "name": "2027 RAM 1500 ",
-      "vin": "3C6SRFFP2V4504325",
+      "vin": "1C6SRFGT3VN593839",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1b2625c7f2d0.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 78939.0,
+      "price": 75370.0,
       "price_currency": "CAD"
     },
     {
