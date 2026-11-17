@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-11-17T08:24:48",
-  "vehicle_count": 190,
+  "generated_at": "2026-11-17T08:30:24",
+  "vehicle_count": 196,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -178,6 +178,38 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/b5485d706ce5.html",
       "condition": "used",
       "price": 13999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2026 for salein Courtenay",
+      "vin": "1C4RDJDG7TC276901",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e0f93ebe7bb5.html",
+      "condition": "new",
+      "price": 58159.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2026 for salein Courtenay",
+      "vin": "3C4PJMA24TT191397",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/d2e70e095b6f.html",
+      "condition": "new",
+      "price": 42390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2026 for salein Courtenay",
+      "vin": "3C4NJDBN5TT154777",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/b2c54fc5d52d.html",
+      "condition": "new",
+      "price": 44594.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2027 for salein Courtenay",
+      "vin": "3C4PJMB29VT552088",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/07879485ec91.html",
+      "condition": "new",
+      "price": 47490.0,
       "price_currency": "CAD"
     },
     {
@@ -1121,17 +1153,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4RDJDG7TC276901",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e0f93ebe7bb5.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 58159.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee Laredoin Courtenay",
       "vin": "3C4PJMB2XTT216155",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/7cc864cb2cbd.html",
@@ -1273,58 +1294,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overlandin Courtenay",
+      "name": "New 2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC23TT276096",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/6e7702d7ed50.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 64024.0,
+      "price": 62975.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overlandin Courtenay",
+      "name": "New 2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC21TT276095",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/bd3e53b28fe5.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 64023.0,
+      "price": 60975.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overlandin Courtenay",
+      "name": "New 2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC2XTT276094",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/8d326e9f2843.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 64023.0,
+      "price": 60975.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Basein Courtenay",
+      "name": "New 2026 Jeep Cherokee Basein Courtenay",
       "vin": "3C4PJMA24TT191397",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/660944c622e9.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 44510.0,
+      "price": 42390.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Overlandin Courtenay",
+      "name": "New 2026 Jeep Cherokee Overlandin Courtenay",
       "vin": "3C4PJMC27TT272746",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/2333f4623a50.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 64023.0,
+      "price": 60975.0,
       "price_currency": "CAD"
     },
     {
@@ -1339,25 +1360,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Courtenay",
+      "name": "New 2026 Jeep Cherokee Laredoin Courtenay",
       "vin": "3C4PJMB25TT286792",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/691051248b82.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 50699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMA24TT191397",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/d2e70e095b6f.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 44510.0,
+      "price": 52285.0,
       "price_currency": "CAD"
     },
     {
@@ -1372,7 +1382,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Courtenay",
+      "name": "New 2026 Jeep Compass Northin Courtenay",
       "vin": "3C4NJDBN0TT154783",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f4b5ab6e9228.html",
       "year": 2026,
@@ -1383,7 +1393,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Courtenay",
+      "name": "New 2026 Jeep Compass Northin Courtenay",
       "vin": "3C4NJDBN5TT154777",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/c142cbca2ac9.html",
       "year": 2026,
@@ -1394,25 +1404,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDAN4TT153203",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/b2c54fc5d52d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 36864.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiator Sport Sin Courtenay",
+      "name": "New 2026 Jeep Gladiator Sport Sin Courtenay",
       "vin": "1C6PJTAGXTL184320",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/674c7153d3db.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "new",
-      "price": 58254.0,
+      "price": 55480.0,
       "price_currency": "CAD"
     },
     {
@@ -1766,14 +1765,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica Selectin Courtenay",
+      "name": "New 2027 Chrysler Pacifica Selectin Courtenay",
       "vin": "2C4RC3BG0VR610052",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4e2a7e33b2aa.html",
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "new",
-      "price": 67378.0,
+      "price": 64170.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Courtenay",
+      "vin": "2C4RC1BG0VR618625",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/a0c728d2fa53.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 59520.0,
       "price_currency": "CAD"
     },
     {
@@ -1887,6 +1897,50 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 66270.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Cherokee Laredoin Courtenay",
+      "vin": "3C4PJMB20VT552089",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/d42600cd406c.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Cherokee Laredoin Courtenay",
+      "vin": "3C4PJMB29VT552091",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/c3351f27e499.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 49530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Cherokee Laredoin Courtenay",
+      "vin": "3C4PJMB29VT552088",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/57a19d216b78.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Jeep Cherokee Laredoin Courtenay",
+      "vin": "3C4PJMB27VT552090",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/a7c96f25b03b.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47985.0,
       "price_currency": "CAD"
     },
     {
