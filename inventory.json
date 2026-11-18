@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-11-18T00:10:08",
+  "generated_at": "2026-11-18T09:26:03",
   "vehicle_count": 197,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -140,6 +140,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Charger 2022 for salein Courtenay",
+      "vin": "2C3CDXJG5NH162784",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/d68d6aee0d93.html",
+      "condition": "used",
+      "price": 31494.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Dodge Durango 2022 for salein Courtenay",
       "vin": "1C4SDJCT5NC223892",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/31b5e1cd2a99.html",
@@ -156,11 +164,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2022 for salein Courtenay",
+      "vin": "1C6SRFVT8NN166336",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/2fdc01c39987.html",
+      "condition": "used",
+      "price": 40985.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 Classic 2022 for salein Courtenay",
       "vin": "1C6RR7GT3NS187663",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/f79886fe62ed.html",
       "condition": "used",
       "price": 37940.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Courtenay",
+      "vin": "1FTFW1E87PFC38741",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/4c2711480c25.html",
+      "condition": "used",
+      "price": 57500.0,
       "price_currency": "CAD"
     },
     {
@@ -172,6 +196,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Grand Cherokee 4xe 2023 for salein Courtenay",
+      "vin": "1C4RJYD67P8784139",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5f4d8867ee33.html",
+      "condition": "used",
+      "price": 79995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 2023 for salein Courtenay",
       "vin": "1C6SRFLT0PN682096",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/01a50fe4f882.html",
@@ -180,11 +212,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Charger Daytona 2024 for salein Courtenay",
+      "vin": "2C3CDBCK6RR205193",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/1ab492c2042c.html",
+      "condition": "used",
+      "price": 76990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2024 for salein Courtenay",
+      "vin": "1C4SDJET4RC150081",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/a1ac0c0f43d5.html",
+      "condition": "used",
+      "price": 64995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Hornet 2024 for salein Courtenay",
+      "vin": "ZACPDFDW1R3A24858",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/593c80ff9992.html",
+      "condition": "used",
+      "price": 48998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Compass 2024 for salein Courtenay",
       "vin": "3C4NJDBN9RT588452",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/c03e8b34fe98.html",
       "condition": "used",
       "price": 25552.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2024 for salein Courtenay",
+      "vin": "1C4PJXDN8RW136963",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/ea7505aebfba.html",
+      "condition": "used",
+      "price": 42047.0,
       "price_currency": "CAD"
     },
     {
@@ -377,17 +441,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Dodge Charger ",
-      "vin": "2C3CDXJG5NH162784",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/d68d6aee0d93.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "used",
-      "price": 30889.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Dodge Durango R/t Plusin Courtenay",
       "vin": "1C4SDJCT5NC223892",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/20c768426df2.html",
@@ -443,17 +496,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFVT8NN166336",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/2fdc01c39987.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 43867.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 RAM 1500 Classic SLTin Courtenay",
       "vin": "1C6RR7GT3NS187663",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/9cc21134d35c.html",
@@ -505,18 +547,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 59499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E87PFC38741",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/4c2711480c25.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 59499.0,
+      "price": 57500.0,
       "price_currency": "CAD"
     },
     {
@@ -555,17 +586,6 @@
     {
       "name": "2023 Jeep Grand Cherokee 4xe ",
       "vin": "1C4RJYD67P8784139",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5f4d8867ee33.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 79995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Grand Cherokee 4xe ",
-      "vin": "1C4RJYD67P8784139",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/5f4d8867ee33.html",
       "year": 2023,
       "make": "Jeep",
@@ -593,35 +613,13 @@
       "make": "Dodge",
       "model": "Charger",
       "condition": "used",
-      "price": 78977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Charger Daytona ",
-      "vin": "2C3CDBCK6RR205193",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/1ab492c2042c.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "used",
-      "price": 78977.0,
+      "price": 76990.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 Dodge Durango Citadelin Courtenay",
       "vin": "1C4SDJET4RC150081",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/75e84db8d70c.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Durango ",
-      "vin": "1C4SDJET4RC150081",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/a1ac0c0f43d5.html",
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
@@ -641,17 +639,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Hornet ",
-      "vin": "ZACPDFDW1R3A24858",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/593c80ff9992.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet",
-      "condition": "used",
-      "price": 48998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Dodge Hornet R/T PHEVin Courtenay",
       "vin": "ZACPDFCW9R3A16833",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/5a596073b5cd.html",
@@ -659,7 +646,7 @@
       "make": "Dodge",
       "model": "Hornet",
       "condition": "used",
-      "price": 36799.0,
+      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -813,18 +800,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 43933.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler ",
-      "vin": "1C4PJXDN8RW136963",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/ea7505aebfba.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 43933.0,
+      "price": 42047.0,
       "price_currency": "CAD"
     },
     {
