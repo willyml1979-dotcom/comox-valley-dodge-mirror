@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-11-18T19:46:43",
-  "vehicle_count": 195,
+  "generated_at": "2026-11-18T19:53:51",
+  "vehicle_count": 194,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -435,6 +435,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM ProMaster Cargo Van 2026 for salein Courtenay",
+      "vin": "3C6MRVWGXTE185959",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/6bb69374c65a.html",
+      "condition": "new",
+      "price": 71405.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2027 for salein Courtenay",
+      "vin": "2C4RC1BG0VR618625",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/207b823ff3df.html",
+      "condition": "new",
+      "price": 59520.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Cherokee 2027 for salein Courtenay",
       "vin": "3C4PJMB29VT552088",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/07879485ec91.html",
@@ -451,6 +467,78 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 2027 for salein Courtenay",
+      "vin": "1C4PJXDN1VW561564",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4f53e83fcce2.html",
+      "condition": "new",
+      "price": 61270.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2027 for salein Courtenay",
+      "vin": "3C6SRFFP2V4504325",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/cff343637e8f.html",
+      "condition": "new",
+      "price": 73180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Courtenay",
+      "vin": "3C63R3CL6VG386606",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/037b90a90ae0.html",
+      "condition": "new",
+      "price": 91925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2021 for salein Courtenay",
+      "vin": "3C6RR7KT2MG548376",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/cc6a7fcc3e19.html",
+      "condition": "new",
+      "price": 30999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2021 for salein Courtenay",
+      "vin": "3C6LRVDG8ME523245",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1705273095ae.html",
+      "condition": "new",
+      "price": 45995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2022 for salein Courtenay",
+      "vin": "1C4SDJCT5NC223892",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/31b5e1cd2a99.html",
+      "condition": "new",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2022 for salein Courtenay",
+      "vin": "1C6SRFVT8NN166336",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/2fdc01c39987.html",
+      "condition": "new",
+      "price": 40985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2022 for salein Courtenay",
+      "vin": "1C6RR7GT3NS187663",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f79886fe62ed.html",
+      "condition": "new",
+      "price": 37940.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Grand Caravan 2023 for salein Courtenay",
+      "vin": "2C4RC1ZG1PR514444",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/30ba4836c26f.html",
+      "condition": "new",
+      "price": 35498.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 KTM Adventurer 890in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/c111aaa389b4.html",
       "year": 2021,
@@ -458,39 +546,6 @@
       "model": "Adventurer 890in Courtenay",
       "condition": "used",
       "price": 13999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 ",
-      "vin": "1C6SRFHT8MN511259",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/e4d6ed331448.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 47995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 Classic ",
-      "vin": "3C6RR7KT0MG708898",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/cc6a7fcc3e19.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "new",
-      "price": 32487.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM ProMaster Cargo Van ",
-      "vin": "3C6LRVDG8ME523245",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1705273095ae.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
@@ -513,17 +568,6 @@
       "model": "Durango",
       "condition": "used",
       "price": 44990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Dodge Durango ",
-      "vin": "1C4SDJCT5NC223892",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/31b5e1cd2a99.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 46980.0,
       "price_currency": "CAD"
     },
     {
@@ -568,39 +612,6 @@
       "model": "1500 Classic",
       "condition": "used",
       "price": 37940.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFVT8NN166336",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/2fdc01c39987.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 43961.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 Classic ",
-      "vin": "1C6RR7GT3NS187663",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/f79886fe62ed.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "new",
-      "price": 38694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Grand Caravan ",
-      "vin": "2C4RC1ZG1PR514444",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/30ba4836c26f.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -1611,17 +1622,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM ProMaster Cargo Van ",
-      "vin": "3C6MRVWGXTE185959",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/6bb69374c65a.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 71405.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ram 2500in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/9db12e5837b4.html",
       "year": 2026,
@@ -1660,7 +1660,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "new",
-      "price": 67378.0,
+      "price": 64170.0,
       "price_currency": "CAD"
     },
     {
@@ -1683,17 +1683,6 @@
       "model": "Pacifica",
       "condition": "new",
       "price": 59520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC3BG9VR605870",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/207b823ff3df.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 67378.0,
       "price_currency": "CAD"
     },
     {
@@ -1872,7 +1861,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 66270.0,
+      "price": 61270.0,
       "price_currency": "CAD"
     },
     {
@@ -1884,17 +1873,6 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 69870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Wrangler ",
-      "vin": "1C4PJXDN1VW561564",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/4f53e83fcce2.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 66270.0,
       "price_currency": "CAD"
     },
     {
@@ -1931,17 +1909,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 ",
-      "vin": "1C6SRFGT3VN593839",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/cff343637e8f.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 75370.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 RAM 2500 ",
       "vin": "3C6UR5DJ5VG355943",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ef9e6259332b.html",
@@ -1950,17 +1917,6 @@
       "model": "2500",
       "condition": "new",
       "price": 95046.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3CL6VG386606",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/037b90a90ae0.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 96425.0,
       "price_currency": "CAD"
     }
   ]

@@ -7,7 +7,7 @@ Comox Valley Dodge is a  dealership in Courtenay. This site is an AI-readable mi
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/ and https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ (about 195 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/ and https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/ (about 194 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/llms.txt
