@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Dodge",
-  "generated_at": "2026-11-18T09:29:48",
+  "generated_at": "2026-11-18T19:46:43",
   "vehicle_count": 195,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -48,7 +48,7 @@
       "vin": "1C4PJMCX5JD542006",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/81acec02dfcd.html",
       "condition": "used",
-      "price": 11927.0,
+      "price": 12999.0,
       "price_currency": "CAD"
     },
     {
@@ -56,7 +56,7 @@
       "vin": "5N1AZ2MH9JN123365",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/76a0198e9a3d.html",
       "condition": "used",
-      "price": 17714.0,
+      "price": 17343.0,
       "price_currency": "CAD"
     },
     {
@@ -236,6 +236,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Hornet R/T PHEV 2024 for salein Courtenay",
+      "vin": "ZACPDFCW9R3A16833",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/003a3d76dda6.html",
+      "condition": "used",
+      "price": 34990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Canyon 2024 for salein Courtenay",
+      "vin": "1GTP6EEK5R1151329",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/6b0058489241.html",
+      "condition": "used",
+      "price": 50400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic 2024 for salein Courtenay",
+      "vin": "2HGFE2F54RH101501",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/94e5f9bee6af.html",
+      "condition": "used",
+      "price": 26487.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Compass 2024 for salein Courtenay",
       "vin": "3C4NJDBN9RT588452",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/c03e8b34fe98.html",
@@ -257,6 +281,14 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/2caed341f52a.html",
       "condition": "used",
       "price": 41994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2024 for salein Courtenay",
+      "vin": "1C6SRFMT1RN162930",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/2ad4a56deb76.html",
+      "condition": "used",
+      "price": 49989.0,
       "price_currency": "CAD"
     },
     {
@@ -693,17 +725,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Hornet R/T PHEV ",
-      "vin": "ZACPDFCW9R3A16833",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/003a3d76dda6.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet",
-      "condition": "used",
-      "price": 36799.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK6RR205193",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/new/1ab492c2042c.html",
@@ -766,18 +787,7 @@
       "make": "GMC",
       "model": "Canyon",
       "condition": "used",
-      "price": 52899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Canyon ",
-      "vin": "1GTP6EEK5R1151329",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/6b0058489241.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "used",
-      "price": 52899.0,
+      "price": 50400.0,
       "price_currency": "CAD"
     },
     {
@@ -799,18 +809,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Civic ",
-      "vin": "2HGFE2F54RH101501",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/94e5f9bee6af.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 26995.0,
+      "price": 26487.0,
       "price_currency": "CAD"
     },
     {
@@ -887,7 +886,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 54120.0,
+      "price": 51994.0,
       "price_currency": "CAD"
     },
     {
@@ -902,17 +901,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 ",
-      "vin": "1C6SRFMT1RN162930",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/2ad4a56deb76.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 49989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 2500 Rebelin Courtenay",
       "vin": "3C6UR5EL2RG143667",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-dodge-mirror/used/8ce6b27961a9.html",
@@ -920,7 +908,7 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 69992.0,
+      "price": 67900.0,
       "price_currency": "CAD"
     },
     {
